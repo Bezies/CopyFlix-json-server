@@ -10,5 +10,10 @@
     }
   ],
   "MyList": [],
-  "Profils": []
+  "Profils": [
+    {
+      "name": "Quentin",
+      "image": "profils/image-2.jpg"
+    }
+  ]
 }
